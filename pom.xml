@@ -65,6 +65,9 @@
 	    <scope>provided</scope>
 	</dependency>
 
+
+<!-- Add dependencies here -->
+  
     <dependency>
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>
